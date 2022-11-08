@@ -1,0 +1,9 @@
+.barva {
+    background-color: chocolate;
+}
+
+@media (max-width: 500px) {
+   .barva (
+    background-color: red  ;
+    )
+}
